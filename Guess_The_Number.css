@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(73, 63, 63);
+}
+.again{
+    background-color:rgb(158, 158, 158);
+    border: none;
+    padding: 20px 50px;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(214, 205, 205);
+}
+.check{
+    background-color:rgb(158, 158, 158);
+    border: rgb(214, 205, 205);
+    border-radius: 30px;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(214, 205, 205);
+}
+.between{
+    color: rgb(158, 158, 158);
+    font-size: 25px;
+    float: right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    font-size: 80px;
+    color: rgb(158, 158, 158);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+hr{
+    background-color: rgb(158, 158, 158);
+    height: 20px;
+    border: none;
+    margin-top: 100px;
+    
+}
+.number{
+    background-color: rgb(158, 158, 158);
+    height: 150px;
+    width: 150px;
+    font-size: 100px;
+    color: rgb(214, 205, 205);
+    text-align: center;
+    position: relative;
+    float: left;
+    left: 50%;
+    transform: translate(-60%, -60%);
+}
+.guess{
+    background-color:  rgb(73, 63, 63);
+    border-color: rgb(214, 205, 205);
+    border-radius: 30px;
+    border-width: 5px;
+    width: 250px;
+    height: 70px;
+    margin-top: 100px;
+    font-size: 50px;
+    text-align: center;
+    color:  rgb(214, 205, 205);
+}
+.right{
+    float: right;
+    margin-right: 350px;
+    font-size: 40px;
+    color:  rgb(214, 205, 205);
+}
